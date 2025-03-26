@@ -60,6 +60,5 @@
     - [.settings](http://_vscodecontentref_/41), [.classpath](http://_vscodecontentref_/42), [.project](http://_vscodecontentref_/43): Eclipse IDE configuration files.
     - [.mvn](http://_vscodecontentref_/44): Maven wrapper configuration files.
 
-## License
 
 
